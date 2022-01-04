@@ -60,6 +60,7 @@ header p {
     font-family: 'Montserrat', sans-serif;
     margin-bottom: 213px;
     transition: all 0.5s ease;   
+    text-decoration: none;
 }
 .btn:hover {
     opacity: 0.5;
